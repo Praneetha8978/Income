@@ -1,0 +1,13 @@
+.income-form {
+	display: block;
+	margin: 15px;
+	position: relative;
+}
+.form-inner {
+	position: relative;
+	z-index: 1;
+	display: flex;
+	justify-content: center;
+	transition: 0.4s;
+	border-radius: 8px;
+}
